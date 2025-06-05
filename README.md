@@ -1,6 +1,6 @@
  #  ESP32 Random Data Logger to ThingSpeak
 
-This project uses an **ESP32 board** to simulate analog sensor data by generating random values between 0 and 1023. These values are sent every 8 seconds to a **ThingSpeak server** using Wi-Fi, where they are displayed on a time-series graph.
+This project uses an **ESP32 board** to simulate analog sensor data by generating random values between 0 and 1023. These values are sent every 15 seconds to a **ThingSpeak server** using Wi-Fi, where they are displayed on a time-series graph.
 
 ##  Features
 
