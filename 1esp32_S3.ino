@@ -2,7 +2,7 @@
 #include <HTTPClient.h>
 const char* ssid = "Aa";
 const char* password = "12345678";
-String apiKey = "L81BJCZL5ESG29YV";  
+String apiKey = "YOUR API KEY";  
 const charserver = "http://api.thingspeak.com/update";
 void setup() {
   Serial.begin(115200);
