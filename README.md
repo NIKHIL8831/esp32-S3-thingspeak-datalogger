@@ -28,6 +28,6 @@ This project uses an **ESP32 board** to simulate analog sensor data by generatin
 
 ##  How It Works
 
-The ESP32 S3 connects to Wi-Fi, generates a new random number every 8 seconds, and sends it to ThingSpeak in this format
+The ESP32 S3 connects to Wi-Fi, generates a new random number every 15 seconds, and sends it to ThingSpeak in this format
 
 
